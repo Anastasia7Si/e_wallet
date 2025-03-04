@@ -37,4 +37,3 @@ cd e_wallet
 - Запустить сборку  проекта:
 ```
 docker-compose up -d
-```
