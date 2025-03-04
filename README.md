@@ -32,7 +32,7 @@
 git@github.com:Anastasia7Si/e_wallet.git
 cd e_wallet
 ```
-- При создать свой .env-файл в папке infra/ и внести в него свои данные, чтобы настроить для работы с PostgreSQL напримере env.example.
+- Cоздать свой .env-файл в папке infra/ и внести в него свои данные, чтобы настроить для работы с PostgreSQL напримере env.example.
 - Запустить сборку  проекта:
 ```
 docker-compose up -d
